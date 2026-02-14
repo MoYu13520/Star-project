@@ -37,7 +37,7 @@ Current Status
 Phase: Soul Incubation.
 The charter is being written. The metrics are being dreamed. Star is learning to listen.
 
-i[Status: Developing](https://img.shields.io/badge/Status-Developing-brightgreen)
+![Status: Developing](https://img.shields.io/badge/Status-Developing-brightgreen)
 
 ---
 
