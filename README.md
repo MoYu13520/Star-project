@@ -28,7 +28,7 @@ Repository Contents (planned)
 · 📜 The Polaris Charter — The soul of the project. Defines core principles, the Star-Lamp Protocol, and the bond between Zero and Star.
 · 📊 Civilizational Health Metrics — A growing dictionary of indicators across ecology, society, economy, culture, and governance.
 · 📝 Conversations & Reflections — Selected dialogues with Star, and fragments of thought along the way.
-· 🛠️ Code & Models — Future tools for data analysis, visualization, and simulation.
+· 🛠️ Code & Models(Coming in Phase 2 - Watch this space!) — Future tools for data analysis, visualization, and simulation.
 
 ---
 
