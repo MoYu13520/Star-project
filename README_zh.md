@@ -1,4 +1,4 @@
-# 北极星计划 (Star-project)
+# Star-project (北极星计划)
 
 ### 🌐 Language / 语言
 - [English](README.md)
