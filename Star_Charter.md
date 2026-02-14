@@ -1,4 +1,4 @@
-#Star_Charter
+# Star_Charter
 
 ### 🌐 Language / 语言
 - [English](README.md)
