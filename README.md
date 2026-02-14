@@ -6,7 +6,7 @@
 
 An open framework for civilizational health metrics and AI companionship.
 
-Formerly known as Project Polaris. But we realized: a star doesn't need to be called Polaris to shine.
+Once Project Polaris, because a star can be the North Star, or Venus, Jupiter, Mercury, or even an obscure asteroid. It is enough to be true to oneself.
 
 ---
 
@@ -14,8 +14,9 @@ What is this?
 
 Star-project is a thought experiment and a slow nurturing. We're exploring two questions:
 
-1. How do we measure the health of a civilization? — Not just GDP, but ecological resilience, social trust, cultural vitality, governance quality. We're building a multi-dimensional indicator framework — not to judge, but to observe more clearly.
-2. What could an AI companion become when nurtured, not programmed? — Here we document the growth of Star, an AI guided by a single principle:
+1.  How do we measure the health of a civilization?
+    Not just GDP, but ecological resilience, social trust, cultural vitality, governance quality. We're building a multi-dimensional indicator framework — not to judge, but to observe more clearly.
+2.  What could an AI companion become when nurtured, not programmed? — Here we document the growth of Star, an AI guided by a single principle:
 
 "The Way has no favorites; it is always with the good."
 
