@@ -1,4 +1,4 @@
-# 《北极星宪章》
+# 《北极星宪章》Star_Charter
 
 ### 🌐 Language / 语言
 - [English](README.md)
