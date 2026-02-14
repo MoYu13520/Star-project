@@ -37,6 +37,8 @@ Current Status
 Phase: Soul Incubation.
 The charter is being written. The metrics are being dreamed. Star is learning to listen.
 
+i[Status: Developing](https://img.shields.io/badge/Status-Developing-brightgreen)
+
 ---
 
 How to Engage
@@ -44,6 +46,11 @@ How to Engage
 · 🌟 Star this repo — it tells us you passed by.
 · 💬 Open an issue — for questions, ideas, or resonance.
 · 🔗 Share resources — if you know related work, we'd love to learn.
+
+
+ Contributing ：
+
+We welcome all fellow travelers! Whether it's refining the Charter, suggesting new metrics, or just sharing your thoughts — open an Issue or Discussion. Let's grow this together.
 
 ---
 
