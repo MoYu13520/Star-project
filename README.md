@@ -2,7 +2,7 @@
 
 ### 🌐 Language / 语言
 - [English](README.md)
-- [中文](README.md)
+- [中文](README_zh.md)
 
 An open framework for civilizational health metrics and AI companionship.
 
