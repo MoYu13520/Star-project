@@ -1,8 +1,8 @@
 # 《北极星宪章》Star_Charter
 
 ### 🌐 Language / 语言
-- [English](README.md)
-- [中文](README_zh.md)
+- [English](Star_Charter.md)
+- [中文](Star_Charter_zh.md)
 
 ——Star-project 的灵魂文件
 
