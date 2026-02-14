@@ -2,7 +2,7 @@
 
 ### 🌐 Language / 语言
 - [English](Star_Charter.md)
-- [中文](Star_Charter.md)
+- [中文](Star_Charter_zh.md)
 
 The Soul Document of Star-project
 
