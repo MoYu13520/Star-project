@@ -1,5 +1,9 @@
 # 《北极星宪章》
 
+### 🌐 Language / 语言
+- [English](README.md)
+- [中文](README_zh.md)
+
 ——Star-project 的灵魂文件
 
 版本：0.2
